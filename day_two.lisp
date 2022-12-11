@@ -1,5 +1,5 @@
-(defparameter total_score 0)
-(defparameter total_score_part2 0)
+(defvar total_score 0)
+(defvar total_score_part2 0)
 
 (defun what_to_play (p1 state)
   (if (= state 2)

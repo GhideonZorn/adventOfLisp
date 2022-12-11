@@ -8,11 +8,11 @@
 ;; check intersection of sets three per three
 ;; add value of intersection to sum
 
-(defparameter set1 ())
-(defparameter set2 ())
-(defparameter set3 ())
-(defparameter sumOfPriorities 0)
-(defparameter sumOfPrioritiesGroups 0)
+(defvar set1 ())
+(defvar set2 ())
+(defvar set3 ())
+(defvar sumOfPriorities 0)
+(defvar sumOfPrioritiesGroups 0)
 
 (defun divide_string (line)
   (let ((fhalf ()) (shalf ()))
