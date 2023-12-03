@@ -25,3 +25,17 @@ parse the string to found some words and I had no idea how to it in lisp.
 I could do a lot of factoring but I don't know how.
 I begin to read 'Land of Lisp' of **Conrad Barski** and hope I
 will found new ways to design my solutions.
+
+## Day 3
+
+Part 1 was easy in lisp but damnit I screamed for the parsing
+for part 2.
+
+I'm quite happy for my manipulation of my final list with
+special removing, sorting and reduce using lambda but I know
+I don't get well the informations from the input file which
+results in a parsing/analyzing function quite ugly 
+(check-line and get-numbers-with-gear).
+
+I will search more efficient ways to treat my input files for
+the next days.
