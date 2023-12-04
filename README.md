@@ -39,3 +39,10 @@ results in a parsing/analyzing function quite ugly
 
 I will search more efficient ways to treat my input files for
 the next days.
+
+## Day 4
+
+Quite a fun day. I use an extern library to parse my file and it
+was a lot more easier.
+I took time to understand that the part 2 was counting the total of
+cards (original + copies) and not of points...
