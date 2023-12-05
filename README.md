@@ -46,3 +46,10 @@ Quite a fun day. I use an extern library to parse my file and it
 was a lot more easier.
 I took time to understand that the part 2 was counting the total of
 cards (original + copies) and not of points...
+
+## Day 5
+
+Part 2 took me some times to understand how to do it quite clean.
+I choose to start from the end, anmd compute every location and 
+check if it gives a valid seed.
+I find this AOC is harder that the 2022 AOC.
