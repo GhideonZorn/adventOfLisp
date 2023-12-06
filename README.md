@@ -50,6 +50,11 @@ cards (original + copies) and not of points...
 ## Day 5
 
 Part 2 took me some times to understand how to do it quite clean.
-I choose to start from the end, anmd compute every location and 
+I choose to start from the end, and compute every location and 
 check if it gives a valid seed.
 I find this AOC is harder that the 2022 AOC.
+
+## Day 6
+
+A fun day, more easier than the 5. 
+I like the use of the cl-ppcre library to parse the inputs
