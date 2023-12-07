@@ -42,7 +42,7 @@ the next days.
 
 ## Day 4
 
-Quite a fun day. I use an extern library to parse my file and it
+Quite a fun day. I used an extern library to parse my file and it
 was a lot more easier.
 I took time to understand that the part 2 was counting the total of
 cards (original + copies) and not of points...
@@ -58,3 +58,9 @@ I find this AOC is harder that the 2022 AOC.
 
 A fun day, more easier than the 5. 
 I like the use of the cl-ppcre library to parse the inputs
+
+## Day 7
+
+I used a list of occurences of each card to check the type of hands.
+For the part 2, I added the occurence of jokers to the most occured cards,
+and change my list of value of the cards to put the joker at the end.
